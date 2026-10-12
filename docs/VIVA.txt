@@ -1,0 +1,20 @@
+VIVA QUICK ANSWERS
+
+Project: AlgoMaster - Advanced Algorithm Toolkit.
+Use: implement, test and study advanced algorithms with different inputs and CSV datasets.
+Language: Core Java. IDE: VS Code. JDK: 17+.
+
+KMP: uses LPS to avoid repeated comparisons, O(n+m).
+Z: computes prefix-match lengths, O(n+m).
+Rabin-Karp: rolling hash; average O(n+m), worst O(nm).
+Edit Distance: DP for insert/delete/replace operations.
+Matrix Chain: interval DP minimizing scalar multiplication cost.
+TSP: bitmask DP represents visited subsets.
+Edmonds-Karp: BFS-based augmenting paths for max flow, O(VE^2).
+Dinic: level graph + blocking flow.
+Bipartite Matching: modeled as unit-capacity flow.
+Vertex Cover: 2-approximation from maximal matching.
+Set Cover: greedy logarithmic approximation idea.
+Las Vegas: always correct, randomized running time.
+Monte Carlo: probabilistic output with bounded computation.
+Work: total parallel operations. Span: critical path length.

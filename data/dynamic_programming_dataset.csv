@@ -1,0 +1,6 @@
+id,problem,input
+1,EditDistance,kitten|sitting
+2,EditDistance,algorithm|altruistic
+3,MatrixChain,10 20 30 40 30
+4,MatrixChain,40 20 30 10 30
+5,BitmaskTSP,0 10 15 20|10 0 35 25|15 35 0 30|20 25 30 0

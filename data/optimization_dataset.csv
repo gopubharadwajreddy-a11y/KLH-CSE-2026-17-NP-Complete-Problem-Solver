@@ -1,0 +1,4 @@
+id,problem,description
+1,VertexCover,2-approximation using maximal matching
+2,SetCover,greedy set cover
+3,Scheduling,approximation strategy guide for NP-hard scheduling
